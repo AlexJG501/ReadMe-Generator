@@ -69,9 +69,9 @@ function init() {
 
                 // start the prompt
                 console.log(`
-                    ==================================
-                     Provide details for a new README
-                    ==================================
+                    +==================================+
+                      Provide details for a new README
+                    +==================================+
                 `);
                 return inquirer.prompt(questions)
                     .then(responses => {
