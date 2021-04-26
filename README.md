@@ -28,3 +28,4 @@ A Node app that generates README files for new projects.
 
 ## Screen Recordings
 ![Alt text](README.gEN.gif)
+![Alt text](walkthrough.gif)
