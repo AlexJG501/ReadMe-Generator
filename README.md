@@ -27,3 +27,4 @@ A Node app that generates README files for new projects.
 
 
 ## Screen Recordings
+![Screen Recording](https://github.com/AlexJG501/ReadMe-Generator/README.gEN.gif)
