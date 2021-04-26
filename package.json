@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AlexJG501/ReadMe-Generator#readme",
   "dependencies": {
-    "inquirer": "^8.0.0"
+    "inquirer": "^8.0.0",
+    "node-fetch": "^2.6.1"
   }
 }
